@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925026754670",
+    "firebase_url": "https://structuretest-6c83c.firebaseio.com",
+    "project_id": "structuretest-6c83c",
+    "storage_bucket": "structuretest-6c83c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925026754670:android:21aca6b7f3c788a5e2867f",
+        "android_client_info": {
+          "package_name": "com.yasinbilgin.dbstructure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925026754670-lcnbgbonuahh641cd0ucan50n9nefapb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQYw4d9qROe7DCL9Zy6tYfZ0qYrNXz10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925026754670-lcnbgbonuahh641cd0ucan50n9nefapb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
